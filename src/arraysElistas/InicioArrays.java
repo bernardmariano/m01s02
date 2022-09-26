@@ -1,3 +1,5 @@
+package arraysElistas;
+
 public class InicioArrays {
 
     public static void main(String[] args) {

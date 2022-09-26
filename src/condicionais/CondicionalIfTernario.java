@@ -1,3 +1,5 @@
+package condicionais;
+
 public class CondicionalIfTernario {
 
     public static void main(String[] args) {

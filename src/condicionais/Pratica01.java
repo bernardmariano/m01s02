@@ -1,3 +1,5 @@
+package condicionais;
+
 public class Pratica01 {
 
     // Dado uma idade, calcular se é maior de idade caso idade >= 18 anos
