@@ -1,3 +1,5 @@
+package arraysElistas;
+
 import java.util.Arrays;
 
 public class TesteArrays {

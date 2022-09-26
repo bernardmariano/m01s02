@@ -1,3 +1,5 @@
+package condicionais;
+
 public class CondicionalSwitchCase {
 
     public static void main(String[] args) {

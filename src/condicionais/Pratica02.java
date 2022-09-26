@@ -1,3 +1,5 @@
+package condicionais;
+
 public class Pratica02 {
 
     // Calcular média de notas e imprimir se aprovado (média >= 7)
